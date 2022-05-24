@@ -52,7 +52,7 @@ dependencies {
     }
     androidTestImplementation("io.kotest:kotest-assertions-core-jvm:4.0.1")
     androidTestImplementation 'androidx.test:rules:1.1.0'
-    androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
     androidTestImplementation("androidx.test:core-ktx:1.2.0")
     androidTestImplementation("androidx.test:core:1.2.0")
 
